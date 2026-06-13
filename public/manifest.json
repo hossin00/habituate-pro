@@ -1,0 +1,27 @@
+{
+  "name": "Habituate Pro",
+  "short_name": "Habituate",
+  "description": "Habit tracker with streaks and analytics.",
+  "start_url": "/habituate-pro/",
+  "scope": "/habituate-pro/",
+  "display": "standalone",
+  "background_color": "#080a08",
+  "theme_color": "#22c55e",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/habituate-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/habituate-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
